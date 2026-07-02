@@ -1,0 +1,6 @@
+[submodule "Noite-Sem-Lua"]
+	path = Noite-Sem-Lua
+	url = https://github.com/NicholasSch/Noite-Sem-Lua.git
+[submodule "DoctorPlease-main"]
+	path = DoctorPlease-main
+	url = https://github.com/NicholasSch/DoctorPlease-main.git
