@@ -4,3 +4,6 @@
 [submodule "DoctorPlease-main"]
 	path = DoctorPlease-main
 	url = https://github.com/NicholasSch/DoctorPlease-main.git
+[submodule "Tetris-in-Unity"]
+	path = Tetris-in-Unity
+	url = https://github.com/NicholasSch/Tetris-in-Unity.git
